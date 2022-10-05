@@ -5,6 +5,7 @@
   </nav>
   <p>APP - PWA - JAFT </p>
   <p>ace2087fa46fcdbe74ba83a601c09166e4bd2505</p>
+  <p>asd</p>
   <router-view/>
 </template>
 
