@@ -3,7 +3,8 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
-  <p>APP - PWA - JAFT</p>
+  <p>APP - PWA - JAFT </p>
+  <p>ace2087fa46fcdbe74ba83a601c09166e4bd2505</p>
   <router-view/>
 </template>
 
